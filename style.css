@@ -1,0 +1,13 @@
+.head_container{
+    height: 100px;
+}
+
+.serv-image{
+    height: 500px;
+}
+
+footer {
+    background-color: #999b9c;
+    padding: 20px 0;
+    text-align: center;
+  }
